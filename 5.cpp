@@ -1,7 +1,7 @@
 #include "5.h"
 
 template <typename T>
-void NewVec(std::list <T>& l, std::vector <T>& v, int sizel, int sizev) {
+void NewVec(std::list <T> &l, std::vector <T> &v, int sizel, int sizev) {
 	
 	std::list <int>::iterator itr;
 
